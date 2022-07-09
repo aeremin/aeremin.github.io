@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "in.aerem.ostrannaconfigurator",
+    "sha256_cert_fingerprints":
+    ["58:5A:B5:75:4F:AD:37:AC:CC:93:C9:4D:47:5E:85:3B:4F:1A:81:6F:74:6D:2C:88:BD:9E:A1:2A:CB:56:F4:AF"]
+  }
+}]

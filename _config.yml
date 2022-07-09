@@ -1,2 +1,4 @@
 title: Ненормальное программирование
 theme: jekyll-theme-cayman
+
+include: [".well-known"]
